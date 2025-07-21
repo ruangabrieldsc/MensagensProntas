@@ -30,3 +30,7 @@ Muito obrigado! Posso ajudar em algo mais, senhor?
 ```text
 Muito obrigado! Posso ajudar em algo mais, senhor?
 ```
+## HABILITAÇÃO DE CONEXÃO
+```text
+Sua conexão foi habilitada! Poderia, por gentileza, verificar se já está conseguindo acessar normalmente?
+```
