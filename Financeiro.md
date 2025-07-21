@@ -5,6 +5,9 @@ Bom dia! Me chamo Ruan Cunha, estarei realizando seu atendimento hoje
 ```text
 Obrigado pelo envio do comprovante! Posso ajudar em algo?
 ```
+```text
+Poderia me informar o CPF do titular, por gentileza?
+```
 ## SOLICITAÇÃO DE FATURA
 ```text
 Poderia conferir se as informações estão corretas, por gentileza?
