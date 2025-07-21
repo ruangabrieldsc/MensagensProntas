@@ -32,6 +32,17 @@ Senhor, não foi possível acessar seu equipamento remotamente. Vou realizar um 
 ```text
 Senhora, não foi possível acessar seu equipamento remotamente. Vou realizar um procedimento em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Após isso, poderia testar a conexão por alguns minutos e nos informar se está estável?
 ```
+
+### PROCEDIMENTO
+🙍‍♂️
+```text
+O senhor poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
+```
+🙍‍♀️
+```text
+A senhora poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. Enquanto isso, fico à disposição para qualquer dúvida.
+```
+
 ### TESTE DE VELOCIDADE
 🙍‍♂️
 ```text
