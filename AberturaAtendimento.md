@@ -20,3 +20,10 @@ O setor responsável entrará em contato diretamente com a senhora em horário c
 ```text
 Existe uma taxa de R$ X,00 em casos de visita improdutiva, porém ela só se aplica em casos específicos, como problemas internos causados pelo próprio cliente (por exemplo: cabo invertido, cabo desplugado, roteador resetado ou travado ou problema na tomada). Tudo bem?
 ```
+
+### APC
+```text
+Contato:
+Protocolo:
+Atendente: Ruan Cunha
+```
