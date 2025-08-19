@@ -10,7 +10,7 @@ Senhora, como não conseguimos normalizar sua conexão com os recursos disponív
 ### CONTATO ⏱
 🙍‍♂️
 ```text
-O setor responsável entrará em contato diretamente com o senhor em horário comercial para lhe repassar as demais informações sobre o atendimento, tudo bem? O prazo máximo para resolução é de X horas úteis.
+O setor responsável entrará em contato diretamente com o senhor em horário comercial para lhe repassar as demais informações sobre o atendimento, tudo bem? O prazo máximo é de X horas úteis. No momento, posso auxiliar em algo mais?
 ```
 🙍‍♀️
 ```text
