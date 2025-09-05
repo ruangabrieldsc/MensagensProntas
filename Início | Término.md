@@ -1,13 +1,13 @@
 # Saudações
 
 ```text
-Boa tarde! Me chamo Ruan Cunha, estarei realizando seu atendimento hoje
+Bom dia! Me chamo Ruan Cunha, estarei realizando seu atendimento hoje
 ```
 ```text
-Boa tarde! Me chamo Ruan Cunha, estarei realizando seu atendimento hoje. Como posso ajudar?
+Bom dia! Me chamo Ruan Cunha, estarei realizando seu atendimento hoje. Como posso ajudar?
 ```
 ```text
-Boa tarde! Me chamo Ruan Cunha, estarei dando continuidade ao seu atendimento
+Bom dia! Me chamo Ruan Cunha, estarei dando continuidade ao seu atendimento
 ```
 ```text
 Poderia me informar o CPF do titular, por gentileza?
