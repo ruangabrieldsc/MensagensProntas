@@ -51,7 +51,7 @@ Senhor, para verificarmos precisamente a velocidade atual da conexão, por genti
 1. *Caso possua um dispositivo cabeado à internet (Computador, Notebook):*
   -Realize o teste diretamente por este dispositivo, por gentileza.
 
-2. *Caso não possua nenhum dipositivo cabeado:*
+2. *Caso não possua nenhum dispositivo cabeado:*
   -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste).
   -Realize o teste próximo ao roteador/modem.
 
@@ -64,7 +64,7 @@ Senhora, para verificarmos precisamente a velocidade atual da conexão, por gent
 1. *Caso possua um dispositivo cabeado à internet (Computador, Notebook):*
   -Realize o teste diretamente por este dispositivo, por gentileza.
 
-2. *Caso não possua nenhum dipositivo cabeado:*
+2. *Caso não possua nenhum dispositivo cabeado:*
   -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste).
   -Realize o teste próximo ao roteador/modem.
 
