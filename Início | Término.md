@@ -32,7 +32,7 @@ Estou finalizando este atendimento por inatividade. Por favor retorne contato ca
 ```
 #### Término de Turno 🔄️
 ```text
-Informo que, devido ao término do meu horário de expediente, vou transferir seu atendimento para um de nossos colegas, que dará continuidade à sua solicitação com toda a atenção necessária. Agradeço sua compreensão.
+Informo que, devido ao término do meu horário de expediente, vou transferir seu atendimento para um de nossos colegas, que dará continuidade com toda a atenção necessária. Agradeço sua compreensão.
 ```
 ```text
 Senhor(a), devido a inatividade na conversa, abri um atendimento para que nosso setor responsável possa estar verificando sua conexão, tudo bem? Peço por gentileza para que aguarde o contato deles. Estou finalizando este atendimento por inatividade. Por favor retorne contato caso precise de auxílio ou tenha alguma dúvida. Desejamos um ótimo dia!
