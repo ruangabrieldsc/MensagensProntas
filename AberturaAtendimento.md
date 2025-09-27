@@ -29,7 +29,7 @@ Atendente: Ruan Cunha
 ```
 
 ```text
-Certo, será aberto um atendimento para o setor técnico verificar o que está ocorrendo. Caso seja problema interno (cabo invertido, cabo desplugado, roteador resetado, roteador travado, problema na tomada) será cobrada a visita técnica no valor de **R$50,00**, responsáveis entraram em contato antes para informar da visita técnica.
+Certo, será aberto um atendimento para o setor técnico verificar o que está ocorrendo. Caso seja problema interno (cabo invertido, cabo desplugado, roteador resetado, roteador travado, problema na tomada) será cobrada a visita técnica no valor de **R$50,00**, o setor responsável entrará em contato antecipadamente para informar da visita técnica.
 
 O prazo de atendimento é de no máximo 24 horas. Qual a disponibilidade de pessoas na casa? De manhã ou a tarde?
 ```
