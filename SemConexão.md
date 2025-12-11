@@ -35,11 +35,8 @@ Senhor, a luz LOS do aparelho em vermelho indica que o roteador não está receb
 Senhora, a luz LOS do aparelho em vermelho indica que o roteador não está recebendo não está recebendo o sinal de internet enviado pela fibra. Muitas vezes, isso ocorre devido a problemas externos. Poderia, por gentileza, estar conferindo se os cabos do aparelho estão bem conectados?
 ```
 ### SEM CONEXÃO/ONLINE
-🙍‍♂️
+
 ```text
-Verifiquei no sistema que a conexão do senhor está apresentando o status online. Para entendermos melhor, poderia nos informar se a internet não está funcionando por completo nos dispositivos ou se está apresentando lentidão/oscilação?
+Poderia me confirmar se a conexão está exibindo a mensagem "Conectado/Sem internet" ou se ela está apresentando lentidão/oscilações?
 ```
-🙍‍♀️
-```text
-Verifiquei no sistema que a conexão da senhora está apresentando o status online. Para entendermos melhor, poderia nos informar se a internet não está funcionando por completo nos dispositivos ou se está apresentando lentidão/oscilação?
-```
+
