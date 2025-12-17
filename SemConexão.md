@@ -1,6 +1,6 @@
 ### OFFLINE
 ```text
-Para realizarmos a análise, poderia por gentileza enviar um vídeo curto dos equipamentos de internet pra gente?
+Verifiquei que a conexão está com o status offline no sistema. Para realizarmos a análise, poderia por gentileza enviar um vídeo curto dos equipamentos de internet onde seja possível visualizar as entradas dos cabos e o comportamento das LEDs pra gente? 
 ```
 
 ### CABOS
