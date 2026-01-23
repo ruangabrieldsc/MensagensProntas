@@ -38,29 +38,17 @@ A senhora poderia por gentileza realizar o seguinte procedimento? Por gentileza,
 ```
 
 ### TESTE DE VELOCIDADE
-🙍‍♂️
+
 ```text
-Senhor, para verificarmos precisamente a velocidade atual da conexão, por gentileza, realize um teste de velocidade da seguinte forma:
+Para verificarmos precisamente a velocidade atual da conexão, por gentileza, realize um teste de velocidade da seguinte forma:
 
 1. *Caso possua um dispositivo cabeado à internet (Computador, Notebook):*
   -Realize o teste diretamente por este dispositivo, por gentileza.
 
 2. *Caso não possua nenhum dispositivo cabeado:*
-  -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste).
+  -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste). Também feche todos os aplicativos ou abas que estejam em uso neste aparelho. *Sempre realize o teste na rede 5G*
   -Realize o teste próximo ao roteador/modem.
 
 Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (fast.com ou speedtest.net).
 ```
-🙍‍♀️
-```text
-Senhora, para verificarmos precisamente a velocidade atual da conexão, por gentileza, realize um teste de velocidade da seguinte forma:
 
-1. *Caso possua um dispositivo cabeado à internet (Computador, Notebook):*
-  -Realize o teste diretamente por este dispositivo, por gentileza.
-
-2. *Caso não possua nenhum dispositivo cabeado:*
-  -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste).
-  -Realize o teste próximo ao roteador/modem.
-
-Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (fast.com ou speedtest.net).
-```
