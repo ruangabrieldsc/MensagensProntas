@@ -49,7 +49,7 @@ Para verificarmos precisamente a velocidade atual da conexão, por gentileza, re
   -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste). Também feche todos os aplicativos ou abas que estejam em uso neste aparelho. *Sempre realize o teste na rede 5G*
   -Realize o teste próximo ao roteador/modem.
 
-Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (fast.com ou speedtest.net).
+Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (speedtest.net).
 ```
 
 ### TESTE DE VELOCIDADE SEM REDE 5G
@@ -64,6 +64,6 @@ Para verificarmos precisamente a velocidade atual da conexão, por gentileza, re
   -Para um diagnóstico preciso, por gentileza, desconecte temporariamente todos os dispositivos da sua rede Wi-Fi (como celulares, TVs, tablets e outros aparelhos), exceto um (que será usado para o teste). Também feche todos os aplicativos ou abas que estejam em uso neste aparelho. 
   -Realize o teste próximo ao roteador/modem.
 
-Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (fast.com ou speedtest.net).
+Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (speedtest.net).
 ```
 
