@@ -23,7 +23,7 @@ O reinício foi concluído com sucesso! Por gentileza, poderia testar a conexão
 ### FALHA NO A.R.
 
 ```text
-Senhor, não foi possível acessar seu equipamento remotamente. Mas realizei um procedimento de desconexão em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Poderia testar a conexão agora por alguns minutos e nos informar se está estável?
+Senhor(a), não foi possível acessar seu equipamento remotamente. Mas realizei um procedimento de desconexão em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Poderia testar a conexão agora por alguns minutos e nos informar se está estável?
 ```
  
 
