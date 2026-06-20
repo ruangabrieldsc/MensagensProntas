@@ -13,12 +13,6 @@ Certo, entendi. Para verificarmos possíveis interferências, poderia nos inform
 ```text
 Vou realizar agora uma tentativa de acesso remoto ao seu aparelho de internet. Por favor, mantenha o aparelho ligado durante esse período.
 ```
-```text
-Consegui acessar seu equipamento. Vou realizar um procedimento de reinício agora, a internet vai cair momentaneamente. Por gentileza, mantenha todos os aparelhos ligados à tomada durante o processo.
-```
-```text
-O reinício foi concluído com sucesso! Por gentileza, poderia testar a conexão por alguns minutos e nos informar se a internet está estabilizada?
-```
 
 ### FALHA NO A.R.
 
@@ -26,16 +20,6 @@ O reinício foi concluído com sucesso! Por gentileza, poderia testar a conexão
 Senhor(a), não foi possível acessar seu equipamento remotamente. Mas realizei um procedimento de desconexão em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Poderia testar a conexão agora por alguns minutos e nos informar se está estável?
 ```
  
-
-### PROCEDIMENTO
-🙍‍♂️
-```text
-O senhor poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão. 
-```
-🙍‍♀️
-```text
-A senhora poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue o modem e o roteador da tomada, aguarde 3 minutos e depois reconecte-os. Este procedimento costuma resolver muitos problemas de conexão.
-```
 
 ### TESTE DE VELOCIDADE
 
