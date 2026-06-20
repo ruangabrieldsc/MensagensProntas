@@ -85,3 +85,13 @@ Para verificarmos precisamente a velocidade atual da conexão, por gentileza, re
 Após isso, por gentileza encaminhe para nós um print ou foto do teste realizado. Sites confiáveis para o teste de velocidade: (speedtest.net).
 ```
 
+# ‎ 
+
+# TRANSFERÊNCIA 🔁
+
+```text
+No momento nosso setor responsável pelas XXX não se encontra disponível, mas vou transferir seu atendimento para eles e no próximo dia útil retornarão contato com o senhor(a) para mais informações 😊
+```
+
+
+
