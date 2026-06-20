@@ -18,7 +18,6 @@ Poderia me confirmar se a conexão está exibindo a mensagem "Conectado/Sem inte
 ```
 
 # ‎ 
-# ‎ 
 
 # FINANCEIRO 💵
 
@@ -29,7 +28,6 @@ Poderia me confirmar se a conexão está exibindo a mensagem "Conectado/Sem inte
 No momento a conexão se encontra limitada por conta da fatura de vencimento XXXX. Ela já foi paga anteriormente? Se sim, poderia encaminhar o comprovante para que possamos liberá-la?
 ```
 
-# ‎ 
 # ‎ 
 
 # ACESSO LENTO 🏃
