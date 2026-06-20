@@ -17,7 +17,7 @@ Poderia por gentileza realizar o seguinte procedimento? Por gentileza, desligue 
 Poderia me confirmar se a conexão está exibindo a mensagem "Conectado/Sem internet" ou se ela está apresentando lentidão/oscilações?
 ```
 
-\\
+<br>\
 
 # FINANCEIRO 💵
 
