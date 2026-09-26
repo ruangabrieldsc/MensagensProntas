@@ -53,6 +53,12 @@ Vou realizar agora uma tentativa de acesso remoto ao seu aparelho de internet. P
 ```text
 Senhor(a), não foi possível acessar seu equipamento remotamente. Mas realizei um procedimento de desconexão em nosso sistema, a internet irá cair por um breve momento mas logo voltará. Poderia testar a conexão agora por alguns minutos e nos informar se está estável?
 ```
+
+### SUCESSO NO A.R.
+
+```text
+Realizei um procedimento de reboot em seu aparelho, poderia testar a conexão agora por alguns minutos agora e nos informar se está estável?
+```
  
 
 ### TESTE DE VELOCIDADE
