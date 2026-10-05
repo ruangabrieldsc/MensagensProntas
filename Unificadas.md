@@ -99,5 +99,11 @@ Após isso, por gentileza encaminhe para nós um print ou foto do teste realizad
 No momento nosso setor responsável pelas XXX não se encontra disponível, mas vou transferir seu atendimento para eles e no próximo dia útil retornarão contato com o senhor(a) para mais informações 😊
 ```
 
+# INICIAMENTO LONGO 🟡
 
+```text
+Boa tarde! Me chamo Ruan, estarei dando continuidade ao seu atendimento
+
+Como posso te ajudar? Peço por gentileza que nos envie também o CPF do titular após sua solicitação, para que possamos te localizar no sistema 😊
+```
 
