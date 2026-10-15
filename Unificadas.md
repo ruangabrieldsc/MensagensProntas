@@ -102,8 +102,12 @@ No momento nosso setor responsável pelas XXX não se encontra disponível, mas 
 # INICIAMENTO LONGO 🟡
 
 ```text
-Boa tarde! Me chamo Ruan, estarei dando continuidade ao seu atendimento
+Boa tarde! Meu nome é Ruan e darei continuidade ao seu atendimento 😊
 
-Como posso te ajudar? Peço por gentileza que nos envie também o CPF do titular após sua solicitação, para que possamos te localizar no sistema 😊
+Para que eu possa te ajudar, me informe, por gentileza, o que você precisa ou qual é a sua solicitação.
+
+📌 Importante: após descrever sua solicitação, envie também o CPF do titular para que eu possa localizar seu cadastro no sistema.
+
+Aguardo as duas informações para dar continuidade ao atendimento. Obrigado! 
 ```
 
